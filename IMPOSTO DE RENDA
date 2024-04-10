@@ -1,0 +1,23 @@
+IMPOSTO DE RENDA
+
+Real sal, imp
+Caracter condic
+Escreva ("In")
+Escreva ("informe o valor do salário")
+Leia (sal)
+Se (sal > 2326.01)
+condic s'c'
+Senao
+Se (sal <= 1164)
+Condic s'a'
+Senao
+Condic ='b'
+Escolha (condic) {
+Caso 'a':
+Caso 'b'
+Imp = sal*0.15
+Caso 'c'
+Imp = sal#0.275 }
+Escreva ("In valor do imposto de renda:",imp)
+{
+}
