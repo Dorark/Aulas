@@ -28,4 +28,5 @@ fimse
 fimescolha
 escreva(" Resultado da operação:", saida)
 escreva ("\n")
-fimalgoritmo
+fimAlgoritmo{
+}
